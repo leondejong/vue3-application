@@ -1,0 +1,15 @@
+.input {
+  padding: 0.25rem 0.5rem;
+  border: none;
+  border-radius: 0.25rem;
+  background: rgba(47, 47, 47, 1);
+  color: rgba(255, 255, 255, 1);
+  font-weight: 700;
+}
+.input:hover,
+.input:focus,
+.input:active {
+  border: none;
+  outline: none;
+  background: rgba(63, 63, 63, 1);
+}
